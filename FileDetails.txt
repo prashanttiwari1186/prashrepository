@@ -1,0 +1,5 @@
+1. MarskTest.java file contains the automation script for the booking site  - http://blazedemo.com/ using selenium webdriver.
+The sccript contains the end to end booking of the flight 
+2. Test_Marsk_API.java file contains the automation script for API automation 
+3. TestCasesAutomationAndAPI.xls file contains two tabs one for booking site : http://blazedemo.com/
+and second tab contains the list of test cases for API automation
